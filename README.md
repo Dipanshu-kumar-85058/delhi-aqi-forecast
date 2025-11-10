@@ -4,8 +4,7 @@
 
 A complete, end-to-end machine learning project that forecasts the daily Air Quality Index (AQI) for Delhi, India. The system uses a TFLite-compatible model and includes an interactive Streamlit dashboard for visualization.
 
-![](https://i.imgur.com/example.png) 
-*(This is a placeholder. Add a screenshot of your `dashboard.py` in action here!)*
+![]([https://jumpshare.com/s/zp4Ixf2JWHQbk6rQq9bw]) 
 
 ## ✨ Features
 
@@ -152,10 +151,11 @@ python predict_api.py
 
 ```
 .
-├── 📜 train_model.py     # Script to train and save the model/scaler
 ├── 📜 predict_api.py     # Script to run inference in the terminal
-├── 📜 dashboard.py       # The Streamlit web application
-├── 📁 model/             # (Created by train_model.py)
+├── 📁 app/
+|   ├── 📜 dashboard.py       # The Streamlit web application
+├── 📁 model/
+|   ├── 📜 train_model.py     # Script to train and save the model/scaler
 │   ├── 🤖 aqi_model.h5
 │   ├── 🤖 aqi_model.tflite
 │   └── 📦 scaler.save
