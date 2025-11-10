@@ -4,7 +4,7 @@
 
 A complete, end-to-end machine learning project that forecasts the daily Air Quality Index (AQI) for Delhi, India. The system uses a TFLite-compatible model and includes an interactive Streamlit dashboard for visualization.
 
-![]([https://jumpshare.com/s/zp4Ixf2JWHQbk6rQq9bw]) 
+![]([https://ibb.co/v6bGyLcx]) 
 
 ## ✨ Features
 
