@@ -85,18 +85,6 @@ You can install the required packages using `pip`.
 ```bash
 pip install -r requirements.txt
 ```
-*(**Note:** You'll need to create a `requirements.txt` file. You can generate one from your environment using `pip freeze > requirements.txt`. At a minimum, it should contain:*
-```
-tensorflow
-streamlit
-scikit-learn
-pandas
-requests
-joblib
-plotly
-numpy
-```
-*)*
 
 ### 4. Run the Pipeline
 
